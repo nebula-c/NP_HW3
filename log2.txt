@@ -1,0 +1,2529 @@
+Script started on Sat 07 May 2022 11:51:57 PM KST
+ksuchoi@iridium:~/NP3/NP_HW3\[suchoi@iridium NP_HW3]$ python sub_all.py -r
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_001.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_001.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_001.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_001.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_001.root",2,4,0.7,0.7,true,-0.02)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270581_001.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270581_001.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270581_001.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270581_001.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270581_001.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 1/90 -> 0.01
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_002.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_002.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_002.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_002.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_002.root",2,4,0.7,0.7,true,-0.02)...
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270581_002.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270581_002.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270581_002.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270581_002.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270581_002.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 2/90 -> 0.02
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_003.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_003.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_003.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_003.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_003.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270581_003.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270581_003.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270581_003.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270581_003.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270581_003.root
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+==========================================
+file progress : 3/90 -> 0.03
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_004.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_004.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_004.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_004.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_004.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270581_004.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270581_004.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270581_004.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270581_004.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270581_004.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+==========================================
+file progress : 4/90 -> 0.04
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_005.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_005.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_005.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_005.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_005.root",2,4,0.7,0.7,true,-0.02)...
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270581_005.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270581_005.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270581_005.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270581_005.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270581_005.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 5/90 -> 0.06
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_006.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_006.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_006.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_006.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_006.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270581_006.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270581_006.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270581_006.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270581_006.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270581_006.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 6/90 -> 0.07
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_007.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_007.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_007.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_007.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_007.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270581_007.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270581_007.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270581_007.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270581_007.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270581_007.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+==========================================
+file progress : 7/90 -> 0.08
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_008.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_008.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_008.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_008.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_008.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270581_008.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270581_008.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270581_008.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270581_008.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270581_008.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+==========================================
+file progress : 8/90 -> 0.09
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_009.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_009.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_009.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_009.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_009.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270581_009.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270581_009.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270581_009.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270581_009.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270581_009.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 9/90 -> 0.10
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_010.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_010.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_010.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_010.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_010.root",4,6,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270581_010.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270581_010.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270581_010.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270581_010.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270581_010.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+==========================================
+file progress : 10/90 -> 0.11
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_011.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_011.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_011.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_011.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270581_011.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270581_011.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270581_011.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270581_011.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270581_011.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270581_011.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 11/90 -> 0.12
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_001.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_001.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_001.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_001.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_001.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270661_001.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270661_001.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270661_001.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270661_001.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270661_001.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 12/90 -> 0.13
+==========================================
+
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_002.root",8,12,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_002.root",4,6,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_002.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_002.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_002.root",2,4,0.7,0.7,true,-0.02)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270661_002.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270661_002.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270661_002.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270661_002.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270661_002.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+==========================================
+file progress : 13/90 -> 0.14
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_003.root",4,6,0.7,0.7,true,-0.005)...
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_003.root",8,12,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_003.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_003.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_003.root",2,4,0.7,0.7,true,-0.02)...
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270661_003.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270661_003.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270661_003.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270661_003.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270661_003.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+==========================================
+file progress : 14/90 -> 0.16
+==========================================
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_004.root",8,12,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_004.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_004.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_004.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270661_004.root",2,4,0.7,0.7,true,-0.02)...
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270661_004.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270661_004.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270661_004.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270661_004.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270661_004.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+==========================================
+file progress : 15/90 -> 0.17
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270663_001.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270663_001.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270663_001.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270663_001.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270663_001.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270663_001.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270663_001.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270663_001.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270663_001.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270663_001.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+==========================================
+file progress : 16/90 -> 0.18
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270663_002.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270663_002.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270663_002.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270663_002.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270663_002.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270663_002.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270663_002.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270663_002.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270663_002.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270663_002.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+==========================================
+file progress : 17/90 -> 0.19
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270663_003.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270663_003.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270663_003.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270663_003.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270663_003.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270663_003.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270663_003.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270663_003.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270663_003.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270663_003.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 18/90 -> 0.20
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_001.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_001.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_001.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_001.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_001.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270665_001.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270665_001.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270665_001.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270665_001.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270665_001.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 19/90 -> 0.21
+==========================================
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_002.root",1,2,0.5,0.5,true,-0.002)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_002.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_002.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_002.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_002.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270665_002.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270665_002.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270665_002.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270665_002.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270665_002.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+==========================================
+file progress : 20/90 -> 0.22
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_003.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_003.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_003.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_003.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_003.root",4,6,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270665_003.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270665_003.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270665_003.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270665_003.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270665_003.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 21/90 -> 0.23
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_004.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_004.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_004.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_004.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_004.root",4,6,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270665_004.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270665_004.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270665_004.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270665_004.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270665_004.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+==========================================
+file progress : 22/90 -> 0.24
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_005.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_005.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_005.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_005.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270665_005.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270665_005.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270665_005.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270665_005.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270665_005.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270665_005.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 23/90 -> 0.26
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270667_001.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270667_001.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270667_001.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270667_001.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270667_001.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270667_001.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270667_001.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270667_001.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270667_001.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270667_001.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 24/90 -> 0.27
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270667_005.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270667_005.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270667_005.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270667_005.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270667_005.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270667_005.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270667_005.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270667_005.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270667_005.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270667_005.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+==========================================
+file progress : 25/90 -> 0.28
+==========================================
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270667_006.root",4,6,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270667_006.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270667_006.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270667_006.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270667_006.root",2,4,0.7,0.7,true,-0.02)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270667_006.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270667_006.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270667_006.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270667_006.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270667_006.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 26/90 -> 0.29
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_001.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_001.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_001.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_001.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_001.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270822_001.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270822_001.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270822_001.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270822_001.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270822_001.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 27/90 -> 0.30
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_002.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_002.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_002.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_002.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_002.root",4,6,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270822_002.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270822_002.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270822_002.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270822_002.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270822_002.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 28/90 -> 0.31
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_003.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_003.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_003.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_003.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_003.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270822_003.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270822_003.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270822_003.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270822_003.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270822_003.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+==========================================
+file progress : 29/90 -> 0.32
+==========================================
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_004.root",4,6,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_004.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_004.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_004.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_004.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270822_004.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270822_004.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270822_004.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270822_004.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270822_004.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+==========================================
+file progress : 30/90 -> 0.33
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_005.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_005.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_005.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_005.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_005.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270822_005.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270822_005.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270822_005.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270822_005.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270822_005.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 31/90 -> 0.34
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_006.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_006.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_006.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_006.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270822_006.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270822_006.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270822_006.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270822_006.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270822_006.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270822_006.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 32/90 -> 0.36
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_001.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_001.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_001.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_001.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_001.root",4,6,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270824_001.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270824_001.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270824_001.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270824_001.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270824_001.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+==========================================
+file progress : 33/90 -> 0.37
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_005.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_005.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_005.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_005.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_005.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270824_005.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270824_005.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270824_005.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270824_005.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270824_005.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+==========================================
+file progress : 34/90 -> 0.38
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_007.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_007.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_007.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_007.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_007.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270824_007.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270824_007.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270824_007.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270824_007.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270824_007.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 35/90 -> 0.39
+==========================================
+
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_008.root",1,2,0.5,0.5,true,-0.002)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_008.root",2,4,0.7,0.7,true,-0.02)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_008.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_008.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_008.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270824_008.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270824_008.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270824_008.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270824_008.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270824_008.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+==========================================
+file progress : 36/90 -> 0.40
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_010.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_010.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_010.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_010.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_010.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270824_010.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270824_010.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270824_010.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270824_010.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270824_010.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 37/90 -> 0.41
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_011.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_011.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_011.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_011.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_011.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270824_011.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270824_011.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270824_011.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270824_011.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270824_011.root
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 38/90 -> 0.42
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_012.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_012.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_012.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_012.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_012.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270824_012.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270824_012.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270824_012.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270824_012.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270824_012.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 39/90 -> 0.43
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_013.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_013.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_013.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_013.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270824_013.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270824_013.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270824_013.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270824_013.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270824_013.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270824_013.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 40/90 -> 0.44
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_001.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_001.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_001.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_001.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_001.root",4,6,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270827_001.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270827_001.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270827_001.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270827_001.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270827_001.root
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+==========================================
+file progress : 41/90 -> 0.46
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_002.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_002.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_002.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_002.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_002.root",2,4,0.7,0.7,true,-0.02)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270827_002.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270827_002.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270827_002.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270827_002.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270827_002.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+==========================================
+file progress : 42/90 -> 0.47
+==========================================
+
+
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_003.root",6,8,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_003.root",8,12,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_003.root",1,2,0.5,0.5,true,-0.002)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_003.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_003.root",4,6,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270827_003.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270827_003.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270827_003.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270827_003.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270827_003.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+==========================================
+file progress : 43/90 -> 0.48
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_007.root",4,6,0.7,0.7,true,-0.005)...
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_007.root",2,4,0.7,0.7,true,-0.02)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_007.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_007.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270827_007.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270827_007.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270827_007.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270827_007.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270827_007.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270827_007.root
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+==========================================
+file progress : 44/90 -> 0.49
+==========================================
+
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_001.root",1,2,0.5,0.5,true,-0.002)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_001.root",8,12,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_001.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_001.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_001.root",2,4,0.7,0.7,true,-0.02)...
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270828_001.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270828_001.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270828_001.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270828_001.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270828_001.root
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+==========================================
+file progress : 45/90 -> 0.50
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_002.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_002.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_002.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_002.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_002.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270828_002.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270828_002.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270828_002.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270828_002.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270828_002.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 46/90 -> 0.51
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_003.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_003.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_003.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_003.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_003.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270828_003.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270828_003.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270828_003.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270828_003.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270828_003.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 47/90 -> 0.52
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_004.root",2,4,0.7,0.7,true,-0.02)...
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_004.root",6,8,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_004.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_004.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270828_004.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270828_004.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270828_004.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270828_004.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270828_004.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270828_004.root
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 48/90 -> 0.53
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_001.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_001.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_001.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_001.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_001.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270830_001.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270830_001.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270830_001.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270830_001.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270830_001.root
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 49/90 -> 0.54
+==========================================
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_002.root",6,8,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_002.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_002.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_002.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_002.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270830_002.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270830_002.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270830_002.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270830_002.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270830_002.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+==========================================
+file progress : 50/90 -> 0.56
+==========================================
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_003.root",2,4,0.7,0.7,true,-0.02)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_003.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_003.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_003.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_003.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270830_003.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270830_003.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270830_003.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270830_003.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270830_003.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 51/90 -> 0.57
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_004.root",8,12,0.7,0.7,true,-0.005)...
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_004.root",4,6,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_004.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_004.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_004.root",2,4,0.7,0.7,true,-0.02)...
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270830_004.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270830_004.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270830_004.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270830_004.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270830_004.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+==========================================
+file progress : 52/90 -> 0.58
+==========================================
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_005.root",1,2,0.5,0.5,true,-0.002)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_005.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_005.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_005.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_005.root",4,6,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270830_005.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270830_005.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270830_005.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270830_005.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270830_005.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 53/90 -> 0.59
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_006.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_006.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_006.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_006.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_006.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270830_006.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270830_006.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270830_006.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270830_006.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270830_006.root
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 54/90 -> 0.60
+==========================================
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_007.root",4,6,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_007.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_007.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_007.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_007.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270830_007.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270830_007.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270830_007.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270830_007.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270830_007.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+==========================================
+file progress : 55/90 -> 0.61
+==========================================
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_008.root",4,6,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_008.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_008.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_008.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_008.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270830_008.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270830_008.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270830_008.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270830_008.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270830_008.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+==========================================
+file progress : 56/90 -> 0.62
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_009.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_009.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_009.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_009.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270830_009.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270830_009.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270830_009.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270830_009.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270830_009.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270830_009.root
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 57/90 -> 0.63
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_001.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_001.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_001.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_001.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_001.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270854_001.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270854_001.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270854_001.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270854_001.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270854_001.root
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+==========================================
+file progress : 58/90 -> 0.64
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_002.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_002.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_002.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_002.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_002.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270854_002.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270854_002.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270854_002.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270854_002.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270854_002.root
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 59/90 -> 0.66
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_003.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_003.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_003.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_003.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_003.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270854_003.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270854_003.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270854_003.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270854_003.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270854_003.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+==========================================
+file progress : 60/90 -> 0.67
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_004.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_004.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_004.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_004.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_004.root",2,4,0.7,0.7,true,-0.02)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270854_004.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270854_004.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270854_004.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270854_004.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270854_004.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+==========================================
+file progress : 61/90 -> 0.68
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_005.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_005.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_005.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_005.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_005.root",2,4,0.7,0.7,true,-0.02)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270854_005.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270854_005.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270854_005.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270854_005.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270854_005.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 62/90 -> 0.69
+==========================================
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_006.root",1,2,0.5,0.5,true,-0.002)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_006.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_006.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_006.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_006.root",4,6,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270854_006.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270854_006.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270854_006.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270854_006.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270854_006.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+==========================================
+file progress : 63/90 -> 0.70
+==========================================
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_008.root",4,6,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_008.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_008.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_008.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270854_008.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270854_008.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270854_008.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270854_008.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270854_008.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270854_008.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 64/90 -> 0.71
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_001.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_001.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_001.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_001.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_001.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270855_001.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270855_001.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270855_001.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270855_001.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270855_001.root
+8_12 : F2 closed now!!!
+2_4 : F2 closed now!!!
+1_2 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : datafile closed now!!!
+1_2 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+==========================================
+file progress : 65/90 -> 0.72
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_003.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_003.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_003.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_003.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_003.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270855_003.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270855_003.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270855_003.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270855_003.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270855_003.root
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 66/90 -> 0.73
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_004.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_004.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_004.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_004.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_004.root",2,4,0.7,0.7,true,-0.02)...
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270855_004.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270855_004.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270855_004.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270855_004.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270855_004.root
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+==========================================
+file progress : 67/90 -> 0.74
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_005.root",4,6,0.7,0.7,true,-0.005)...
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_005.root",6,8,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_005.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_005.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270855_005.root",2,4,0.7,0.7,true,-0.02)...
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270855_005.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270855_005.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270855_005.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270855_005.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270855_005.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+==========================================
+file progress : 68/90 -> 0.76
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_001.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_001.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_001.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_001.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_001.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270856_001.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270856_001.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270856_001.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270856_001.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270856_001.root
+6_8 : F2 closed now!!!
+2_4 : F2 closed now!!!
+4_6 : F2 closed now!!!
+1_2 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : datafile closed now!!!
+4_6 : datafile closed now!!!
+1_2 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+==========================================
+file progress : 69/90 -> 0.77
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_002.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_002.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_002.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_002.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_002.root",4,6,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270856_002.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270856_002.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270856_002.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270856_002.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270856_002.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+==========================================
+file progress : 70/90 -> 0.78
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_003.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_003.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_003.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_003.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_003.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270856_003.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270856_003.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270856_003.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270856_003.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270856_003.root
+2_4 : F2 closed now!!!
+6_8 : F2 closed now!!!
+8_12 : F2 closed now!!!
+2_4 : datafile closed now!!!
+4_6 : F2 closed now!!!
+8_12 : datafile closed now!!!
+6_8 : datafile closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 71/90 -> 0.79
+==========================================
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_006.root",2,4,0.7,0.7,true,-0.02)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_006.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_006.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_006.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270856_006.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270856_006.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270856_006.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270856_006.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270856_006.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270856_006.root
+8_12 : F2 closed now!!!
+6_8 : F2 closed now!!!
+8_12 : datafile closed now!!!
+6_8 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+==========================================
+file progress : 72/90 -> 0.80
+==========================================
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_002.root",2,4,0.7,0.7,true,-0.02)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_002.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_002.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_002.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_002.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270861_002.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270861_002.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270861_002.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270861_002.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270861_002.root
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+==========================================
+file progress : 73/90 -> 0.81
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_004.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_004.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_004.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_004.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_004.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270861_004.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270861_004.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270861_004.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270861_004.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270861_004.root
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+==========================================
+file progress : 74/90 -> 0.82
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_005.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_005.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_005.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_005.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_005.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270861_005.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270861_005.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270861_005.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270861_005.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270861_005.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+==========================================
+file progress : 75/90 -> 0.83
+==========================================
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_006.root",1,2,0.5,0.5,true,-0.002)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_006.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_006.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_006.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_006.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270861_006.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270861_006.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270861_006.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270861_006.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270861_006.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+==========================================
+file progress : 76/90 -> 0.84
+==========================================
+
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_007.root",2,4,0.7,0.7,true,-0.02)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_007.root",1,2,0.5,0.5,true,-0.002)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_007.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_007.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_007.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270861_007.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270861_007.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270861_007.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270861_007.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270861_007.root
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 77/90 -> 0.86
+==========================================
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_008.root",2,4,0.7,0.7,true,-0.02)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_008.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_008.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_008.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_008.root",6,8,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270861_008.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270861_008.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270861_008.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270861_008.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270861_008.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+==========================================
+file progress : 78/90 -> 0.87
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_009.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_009.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_009.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_009.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_009.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270861_009.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270861_009.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270861_009.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270861_009.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270861_009.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 79/90 -> 0.88
+==========================================
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_010.root",4,6,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_010.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_010.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_010.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_010.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270861_010.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270861_010.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270861_010.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270861_010.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270861_010.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+==========================================
+file progress : 80/90 -> 0.89
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_011.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_011.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_011.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_011.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_011.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270861_011.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270861_011.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270861_011.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270861_011.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270861_011.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 81/90 -> 0.90
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_013.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_013.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_013.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_013.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270861_013.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270861_013.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270861_013.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270861_013.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270861_013.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270861_013.root
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 82/90 -> 0.91
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_001.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_001.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_001.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_001.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_001.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270865_001.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270865_001.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270865_001.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270865_001.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270865_001.root
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+==========================================
+file progress : 83/90 -> 0.92
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_002.root",6,8,0.7,0.7,true,-0.005)...
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_002.root",4,6,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_002.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_002.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_002.root",2,4,0.7,0.7,true,-0.02)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270865_002.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270865_002.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270865_002.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270865_002.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270865_002.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+==========================================
+file progress : 84/90 -> 0.93
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_003.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_003.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_003.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_003.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_003.root",4,6,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270865_003.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270865_003.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270865_003.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270865_003.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270865_003.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+==========================================
+file progress : 85/90 -> 0.94
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_004.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_004.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_004.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_004.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_004.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270865_004.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270865_004.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270865_004.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270865_004.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270865_004.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 86/90 -> 0.96
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_005.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_005.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_005.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_005.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_005.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270865_005.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270865_005.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270865_005.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270865_005.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270865_005.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 87/90 -> 0.97
+==========================================
+
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_006.root",8,12,0.7,0.7,true,-0.005)...
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_006.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_006.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_006.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_006.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270865_006.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270865_006.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270865_006.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270865_006.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270865_006.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 88/90 -> 0.98
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_007.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_007.root",1,2,0.5,0.5,true,-0.002)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_007.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_007.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_007.root",8,12,0.7,0.7,true,-0.005)...
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270865_007.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270865_007.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270865_007.root
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270865_007.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270865_007.root
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+==========================================
+file progress : 89/90 -> 0.99
+==========================================
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_008.root",6,8,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_008.root",4,6,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_008.root",2,4,0.7,0.7,true,-0.02)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_008.root",8,12,0.7,0.7,true,-0.005)...
+
+Processing NP_HW3.cpp("AnalysisResults.root_000270865_008.root",1,2,0.5,0.5,true,-0.002)...
+~~~ OPEN : DCut_2_4.root -> AnalysisResults.root_000270865_008.root
+~~~ OPEN : DCut_6_8.root -> AnalysisResults.root_000270865_008.root
+~~~ OPEN : DCut_8_12.root -> AnalysisResults.root_000270865_008.root
+~~~ OPEN : DCut_4_6.root -> AnalysisResults.root_000270865_008.root
+~~~ OPEN : DCut_1_2.root -> AnalysisResults.root_000270865_008.root
+4_6 : F2 closed now!!!
+4_6 : datafile closed now!!!
+6_8 : F2 closed now!!!
+6_8 : datafile closed now!!!
+1_2 : F2 closed now!!!
+1_2 : datafile closed now!!!
+8_12 : F2 closed now!!!
+8_12 : datafile closed now!!!
+2_4 : F2 closed now!!!
+2_4 : datafile closed now!!!
+==========================================
+file progress : 90/90 -> 1.00
+==========================================
+=========================
+3638.53951693 sec(sub)
+=========================
+ksuchoi@iridium:~/NP3/NP_HW3\[suchoi@iridium NP_HW3]$ exit
+exit
+
+Script done on Sun 08 May 2022 01:49:56 AM KST
