@@ -34,12 +34,11 @@ class KnPData
 
         KnPData();
         void MakeBranch(TTree *KnPTree);
-        void ConnectBranch(TTree *myTree);
-        void Comb_Pair(TTree *TKaon, TTree *TPion, Interval *interval, TTree *TRes);
+        void Comb_Pair(TTree *TKaon, TTree *TPion, Interval *interval, TH1F *TRes);
 };
 
 
-void KnPData::Comb_Pair(TTree *TKaon, TTree *TPion, Interval *interval, TTree *TRes)            // make pair
+void KnPData::Comb_Pair(TTree *TKaon, TTree *TPion, Interval *interval, TH1F *TRes)            // make pair
 {
     if(!TKaon || !TPion)
     {
@@ -70,8 +69,9 @@ void KnPData::Comb_Pair(TTree *TKaon, TTree *TPion, Interval *interval, TTree *T
 
     Double_t R_M;
     bool same_sign;
-    TRes->SetBranchAddress("M", &R_M);
-    TRes->SetBranchAddress("IsSame",  &same_sign);
+
+    // TRes->SetBranchAddress("M", &R_M);
+    // TRes->SetBranchAddress("IsSame",  &same_sign);
 
     for(int i_k=0;i_k<TKaon->GetEntries();i_k++)
     {
@@ -101,7 +101,7 @@ void KnPData::Comb_Pair(TTree *TKaon, TTree *TPion, Interval *interval, TTree *T
                         if( (!(interval->dcut)) || (K_DCA*P_DCA < interval->DCA))
                         {
                             R_M = lvec_pair.M();
-                            TRes->Fill();
+                            TRes->Fill(R_M);
                         }
                     }
                 }
