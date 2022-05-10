@@ -60,9 +60,9 @@ def DrawResult():
 
 if args.read :
     i=0
-    flist = open("./testfile.lst", 'r')
+    flist = open("./file.lst", 'r')
     totalnum = len(flist.readlines())
-    flist = open("./testfile.lst", 'r')
+    flist = open("./file.lst", 'r')
     for file in flist :
         
         pr0_noD = Process(target = ReadData, args=(file,0,"false"))

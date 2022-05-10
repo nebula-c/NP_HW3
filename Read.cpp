@@ -24,29 +24,22 @@ using namespace std;
 const Double_t mass_kaon = 0.493677;
 const Double_t mass_pion = 0.139570;
 
-void Run(TString rawname, Interval *interval, TString filename);
-void ProgressBar(int ien, int nentries);
+int interval_i[6] = {1, 2, 4, 6, 8, 12};
+int interval_f[6] = {2, 4, 6, 8, 12, 24};
+Double_t ptk[6] = {0.5, 0.7, 0.7, 0.7, 0.7, 0.6};
+Double_t ptp[6] = {0.5, 0.7, 0.7, 0.7, 0.7, 0.6};
+Double_t dcut[6] = {-0.00002, -0.0002, -0.00005, -0.00005, -0.00005, 10};
 
-void NP_HW3(TString rawname, int input_min, int input_max, Double_t input_Ptk, Double_t input_Ptp, bool input_dcut, Double_t input_DCA)
+void All_Run();
+void Run(TString rawname, Interval *interval, TString filename);
+
+void Read()
 {   
     // time_t start_time, end_time;
     // start_time=time(NULL);
 
-    Interval *myreg = new Interval(input_min,input_max,input_Ptk,input_Ptp,input_dcut,input_DCA);           // information for cuts
-
     
-    TString firstname;
-    if(myreg->dcut==false)
-        firstname = "NoD_";
-    else 
-        firstname = "DCut_";
-
-    TString filename = firstname + input_min + "_" + input_max + ".root";
-
-    
-    Run(rawname,myreg,filename);
-
-    delete myreg;
+    All_Run();
 
     // end_time = time(NULL);
     // cout << "========================" << endl;
@@ -54,7 +47,47 @@ void NP_HW3(TString rawname, int input_min, int input_max, Double_t input_Ptk, D
     // cout << "========================" << endl;
 }
 
-void Run(TString rawname, Interval *interval, TString filename)
+void All_Run()
+{
+    TString filepath = "/home/share/Class2022NP/Data_pp13TeV_2017/";
+    TString filelist = "./file.lst";
+    ifstream listfile(filelist);
+
+    string line;    
+    //------------------------------------------------------------
+    // file loop
+    while(!listfile.eof())
+    {
+        listfile >> line;
+        TString Tline = line;
+
+        //------------------------------------------------------------
+        // interval loop
+        for(int i=0;i<=6;i++)
+        {
+            for(int iscut=0;iscut<=1;iscut++)
+            {
+                Interval *myreg = new Interval(interval_i[i],interval_f[i],ptk[i],ptp[i],iscut,dcut[i]);           // information for cuts
+
+                TString firstname;
+                if(myreg->dcut==false)
+                    firstname = "NoD_";
+                else
+                    firstname = "DCut_";
+
+                    TString filename = firstname + interval_i[i] + "_" + interval_f[i] + ".root";
+
+                Run(line,myreg,filename);
+            }
+        }
+        //------------------------------------------------------------
+    }
+    //------------------------------------------------------------
+    listfile.close();
+
+}
+
+void Read_One_File(TString rawname, Interval *interval, TString filename)
 {
     RootData *myrootdata = new RootData();
     KnPData *myKnPData = new KnPData();
@@ -104,13 +137,9 @@ void Run(TString rawname, Interval *interval, TString filename)
     {
         H_Unikesign = new TH1F("unlikesign","unlikesign",25,1.7,2.2);
     }
-
     datafile->cd();
 
-    // int progress_check = -1;
 
-    // time_t e_start, e_end;
-    // e_start = time(NULL);
     //------------------------------------------------------
     // event loop
     for(int ien=0; ien<nentries;ien++)
@@ -151,14 +180,6 @@ void Run(TString rawname, Interval *interval, TString filename)
         F2->cd();
         myKnPData->Comb_Pair(KaonTree,PionTree,interval,H_Likesign,H_Unikesign);
         
-        // //------------------------------------------------------
-        // // progress bar
-        // int progress = int(float(ien)/float(nentries)*100);
-        // if( progress % 10 == 0 && progress_check != progress)
-        // {
-        //     cout << "progress in a file : " << ien << " / " << nentries << " -> " << int(float(ien)/float(nentries)*100) << "%" << endl;
-        //     progress_check = progress;
-        // }
         delete PionTree;
         delete KaonTree;
     }
@@ -178,9 +199,4 @@ void Run(TString rawname, Interval *interval, TString filename)
     cout << interval->min << "_" << interval->max <<" : datafile closed now!!!" << endl;
 
     delete myKnPData;
-    
-
-    //  e_end = time(NULL);
-     // cout << "time(1 file) : " << (double)(e_end-e_start) << " sec" <<endl;
-     // cout << "------ ------ ----- ----- ----- -----" << endl;
 }
