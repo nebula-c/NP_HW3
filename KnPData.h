@@ -34,11 +34,11 @@ class KnPData
 
         KnPData();
         void MakeBranch(TTree *KnPTree);
-        void Comb_Pair(TTree *TKaon, TTree *TPion, Interval *interval, TH1F *TRes);
+        void Comb_Pair(TTree *TKaon, TTree *TPion, Interval *interval, TH1F *likesign_histo, TH1F *unlikesign_histo);
 };
 
 
-void KnPData::Comb_Pair(TTree *TKaon, TTree *TPion, Interval *interval, TH1F *TRes)            // make pair
+void KnPData::Comb_Pair(TTree *TKaon, TTree *TPion, Interval *interval, TH1F *likesign_histo, TH1F *unlikesign_histo)            // make pair
 {
     if(!TKaon || !TPion)
     {
@@ -101,7 +101,10 @@ void KnPData::Comb_Pair(TTree *TKaon, TTree *TPion, Interval *interval, TH1F *TR
                         if( (!(interval->dcut)) || (K_DCA*P_DCA < interval->DCA))
                         {
                             R_M = lvec_pair.M();
-                            TRes->Fill(R_M);
+                            if(same_sign)
+                                likesign_histo->Fill(R_M);
+                            else
+                                unlikesign_histo->Fill(R_M);
                         }
                     }
                 }

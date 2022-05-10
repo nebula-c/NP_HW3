@@ -29,8 +29,8 @@ void ProgressBar(int ien, int nentries);
 
 void NP_HW3(TString rawname, int input_min, int input_max, Double_t input_Ptk, Double_t input_Ptp, bool input_dcut, Double_t input_DCA)
 {   
-    time_t start_time, end_time;
-    start_time=time(NULL);
+    // time_t start_time, end_time;
+    // start_time=time(NULL);
 
     Interval *myreg = new Interval(input_min,input_max,input_Ptk,input_Ptp,input_dcut,input_DCA);           // information for cuts
 
@@ -93,18 +93,9 @@ void Run(TString rawname, Interval *interval, TString filename)
     Double_t pair_M;
     bool pair_sign;
 
-    TTree *PairTree = (TTree*)F2->Get("Pair");
-    if(!PairTree)
-    {
-        PairTree = new TTree("Pair","Pair");
-        PairTree->Branch("M",&pair_M);
-        PairTree->Branch("IsSame",&pair_sign);
-    }
-    else
-    {
-        PairTree->GetBranch("M")->SetAddress(&pair_M);
-        PairTree->GetBranch("IsSame")->SetAddress(&pair_sign);
-    }
+    TH1F *H_Likesign = new TH1F("likesign","likesign",25,1.7,2.2);
+    TH1F *H_Unikesign = new TH1F("unlikesign","unlikesign",25,1.7,2.2);
+
     datafile->cd();
 
     // int progress_check = -1;
@@ -149,7 +140,7 @@ void Run(TString rawname, Interval *interval, TString filename)
         //------------------------------------------------------
         //Make Comb tree
         F2->cd();
-        myKnPData->Comb_Pair(KaonTree,PionTree,interval,PairTree);
+        myKnPData->Comb_Pair(KaonTree,PionTree,interval,H_Likesign,H_Unikesign);
         
         // //------------------------------------------------------
         // // progress bar
@@ -165,7 +156,8 @@ void Run(TString rawname, Interval *interval, TString filename)
     // event loop
     //------------------------------------------------------
     F2->cd();
-    PairTree->Write("",TObject::kOverwrite);
+    H_Likesign->Write("",TObject::kOverwrite);
+    H_Unikesign->Write("",TObject::kOverwrite);
     delete rootTree;
     F2->Close(); 
     cout << interval->min << "_" << interval->max <<" : F2 closed now!!!" << endl;
