@@ -10,6 +10,7 @@ parser=argparse.ArgumentParser(description='analysis all',formatter_class=argpar
 # parser.add_argument('--dcut','-d',action='store_true',help='Give dCut')
 parser.add_argument('--read','-r',action='store_true', help='reading')
 parser.add_argument('--draw','-d',action='store_true', help='drawing')
+parser.add_argument('--fit','-f',action='store_true', help='drawing')
 
 args=parser.parse_args()
 
@@ -24,6 +25,18 @@ ptk = [0.5, 0.7, 0.7, 0.7, 0.7, 0.6]
 ptp = [0.5, 0.7, 0.7, 0.7, 0.7, 0.6]
 #dcut = [-0.2, -2, -0.5, -0.5, -0.5, 10]
 dcut = [-0.00002, -0.0002, -0.00005, -0.00005, -0.00005, 10]
+
+def FitResults():
+    for j in range(0,6):    
+        iscut = "DCut"
+        if (j==5):
+            iscut = "NoD"
+        filename= '''./resultfile/Total_{}_{}_{}.root'''.format(iscut,interval_i[j],interval_f[j])
+        print(filename)
+
+        mycode = '''root 'New_Make_Plot.cpp("{}",{},{})' -l'''.format(filename,interval_i[j],interval_f[j])
+        os.system(mycode)
+        break;
 
 def ReadData(raw, i, cut):
     # for i in range(0,7):
@@ -49,12 +62,13 @@ def DrawResult():
 
             if (dcut=="true") and (j==5):
                 continue
-            filename= '''Pair_{}{}_{}.root'''.format(i,interval_i[j],interval_f[j])
+            # filename= '''Pair_{}{}_{}.root'''.format(i,interval_i[j],interval_f[j])
+            filename= '''Total_{}{}_{}.root'''.format(i,interval_i[j],interval_f[j])
             print(filename)
 
             
 
-            mycode = '''root 'Make_Plot.cpp("{}",{},{})' -l -q'''.format(filename,interval_i[j],interval_f[j])
+            mycode = '''root 'New_Make_Plot.cpp("{}",{},{})' -l -q'''.format(filename,interval_i[j],interval_f[j])
             os.system(mycode)
 
 
@@ -127,6 +141,11 @@ if args.read :
 
 if args.draw:
     DrawResult()
+
+if args.fit:
+    FitResults()
+
+
 
 end = time.time()
 print("=========================")

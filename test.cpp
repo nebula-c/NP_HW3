@@ -16,7 +16,6 @@ void test()
   TString filelist = "./file.lst";
   ifstream listfile(filelist);
 
-
   string line;
   while(!listfile.eof())
   {

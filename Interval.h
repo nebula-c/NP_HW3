@@ -2,6 +2,7 @@
 #define INTERVAL_H
 
 #include "TString.h"
+#include <string>
 
 typedef struct Interval
 {
@@ -32,7 +33,7 @@ typedef struct Interval
             firstname = "NoD_";
         else 
             firstname = "DCut_";
-        myfilename = "Pair_" + firstname + _min + "_" + _max + ".root";
+        myfilename = "Pair_" + firstname + std::to_string(_min) + "_" + std::to_string(_max) + ".root";
     }
 
 
